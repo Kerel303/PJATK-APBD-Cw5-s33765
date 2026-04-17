@@ -1,0 +1,6 @@
+@Cw5_HostAddress = http://localhost:5028
+
+GET {{Cw5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
